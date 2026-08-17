@@ -1,7 +1,7 @@
 # ExpNo 2 : Implement Depth First Search Traversal of a Graph
 
-### Name:
-### Register Number:
+### Name: Rohith S
+### Register Number: 212225240122
 
 ## Aim
 To Implement Depth First Search Traversal of a Graph using Python 3.
