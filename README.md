@@ -86,22 +86,25 @@ if __name__ == "__main__":
 
 ## Sample Input 1
 ```
-8 9
-A B
-A C
-B E
-C D
-B D
-C G
-D F
-G F
-F H
+ 8 9
+ A B
+ A C
+ B E
+ C D
+ B D
+ C G
+ D F
+ B F
+ F H
 ```
 
 ## Sample Output 1
 ```
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
 ```
+## OUTPUT 1
+
+<img width="464" height="243" alt="image" src="https://github.com/user-attachments/assets/aac0a13d-b06f-439f-8192-4acf357930fe" />
 
 ## Sample Input 2
 ```
@@ -117,6 +120,10 @@ F H
 ```
 ['0', '1', '2', '3', '4']
 ```
+## OUTPUT 2
+
+<img width="356" height="148" alt="image" src="https://github.com/user-attachments/assets/06598ad2-a248-4ac7-aefb-2093c2425ab3" />
+
 
 ## Result
 Thus, a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.
